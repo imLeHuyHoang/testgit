@@ -1,2 +1,2 @@
-Dòng trùng lặp (main)
+Dòng trùng lặp (main+feature)
 Dòng khác
