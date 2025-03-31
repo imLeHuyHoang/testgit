@@ -1,2 +1,1 @@
-Dòng trùng lặp (main)
-Dòng khác
+code bản 1
