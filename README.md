@@ -1,2 +1,2 @@
-Dòng trùng lặp
+Dòng trùng lặp (main)
 Dòng khác
